@@ -1,0 +1,6 @@
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\bin\Release\SkypeAdBlock.exe.config
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\bin\Release\SkypeAdBlock.exe
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\bin\Release\SkypeAdBlock.pdb
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\obj\Release\SkypeAdBlock.csprojResolveAssemblyReference.cache
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\obj\Release\SkypeAdBlock.exe
+C:\Users\Lisininsv\Documents\Visual Studio 2013\Projects\SkypeAdBlock\SkypeAdBlock\obj\Release\SkypeAdBlock.pdb
